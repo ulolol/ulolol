@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vidish . This is my spare Github Profile.
+- 👋 Hi, I’m Vidish . This is my ALT Github Profile.
 - 👀 I’m interested in Python, R, Data Science, ML, Testing, Analysis, and i code for fun sometimes.
 - 🌱 I’m currently learning ML and Data Science
 - 💞️ I’m looking to collaborate on anything
