@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Vidish . This is my ALT Github Profile.
-- 👀 I’m interested in Python, R, Data Science, ML, Testing, Analysis, and I code for fun sometimes.
+- 👋 Hi, I’m Vidish . This is my ALT Github Profile for all things ML.
+- 👀 This is NOT my main GIT, trying to keep things organized with this new ALT.
 - 🌱 I’m currently learning ML and Data Science
 - 💞️ I’m looking to collaborate on Interesting and Fun Projects around ML Engineering
 - 📫 How to reach me https://www.linkedin.com/in/vidish-srivastava-kaos/
