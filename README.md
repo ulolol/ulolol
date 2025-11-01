@@ -2,7 +2,7 @@
 - 👀 This is NOT my main GIT, trying to keep things organized with this new ALT. 
 - 😎 Ping on MAIN GIT if you're collabing there.
 - 🌱 I’m currently learning ML and Data Science
-- 💞️ I’m looking to collaborate on Interesting and Fun Projects around ML Engineering
+- 🤝 I’m looking to collaborate on Interesting and Fun Projects around ML Engineering
 - 📫 How to reach me https://www.linkedin.com/in/vidish-srivastava-kaos/
 
 <!---
